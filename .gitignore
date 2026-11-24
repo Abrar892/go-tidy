@@ -1,0 +1,12 @@
+# Binaries
+tidy
+tidy.exe
+
+# Build output
+*.test
+*.out
+
+# Editor / OS junk
+.DS_Store
+.idea/
+.vscode/
